@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NKryst
-- 👀 I’m interested in NLP - AI
+- 👀 I’m interested in NLP - AI, Statistics and Mathematical Modeling
 - 🌱 I’m currently learning Data Analysis, APIs , Building Applications
 - 📫 How to reach me out ? ask questions and discuss ideas in the repositories that you find interesting
 
