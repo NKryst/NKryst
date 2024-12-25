@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NKryst
-- 👀 I’m interested in NLP - AI, and Mathematical Modeling
+- 👀 I’m a PhD student interested in NLP - AI, and Mathematical Modeling
 - 🌱 I’m currently learning Data Analysis, APIs , Building Applications
 - 📫 How to reach me out ? ask questions and discuss ideas in the repositories that you find interesting
 - Bio : BSc Applied Mathematics | MSc Operational Research and Analysis | Business Analyst - Finance | 🚀 AI Enthusiast | 💡 Kaggle Competitor | 📊 Data-driven
